@@ -1,0 +1,16 @@
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\bin\Debug\net5.0\CsvReadApplication.exe
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\bin\Debug\net5.0\CsvReadApplication.deps.json
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\bin\Debug\net5.0\CsvReadApplication.runtimeconfig.json
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\bin\Debug\net5.0\CsvReadApplication.runtimeconfig.dev.json
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\bin\Debug\net5.0\CsvReadApplication.dll
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\bin\Debug\net5.0\ref\CsvReadApplication.dll
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\bin\Debug\net5.0\CsvReadApplication.pdb
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\obj\Debug\net5.0\CsvReadApplication.csproj.AssemblyReference.cache
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\obj\Debug\net5.0\CsvReadApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\obj\Debug\net5.0\CsvReadApplication.AssemblyInfoInputs.cache
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\obj\Debug\net5.0\CsvReadApplication.AssemblyInfo.cs
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\obj\Debug\net5.0\CsvReadApplication.csproj.CoreCompileInputs.cache
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\obj\Debug\net5.0\CsvReadApplication.dll
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\obj\Debug\net5.0\ref\CsvReadApplication.dll
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\obj\Debug\net5.0\CsvReadApplication.pdb
+F:\Projects\Dipika\InterviewProject\CsvReadPilotTask\CsvReadApplication\obj\Debug\net5.0\CsvReadApplication.genruntimeconfig.cache
